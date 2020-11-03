@@ -1,0 +1,1 @@
+insert into customer (name, age, address) VALUES ('DEMO TARO', 20, 'Honcho Nakano-ku Tokyo');
